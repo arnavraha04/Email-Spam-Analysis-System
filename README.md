@@ -50,5 +50,5 @@
 
 ## How to Run This Project
   # Step 1: Clone the repository
-    git clone https://github.com/your-username/email-spam-analysis-system.git
+    git clone https://github.com/arnavraha04/email-spam-analysis-system.git
     cd email-spam-analysis-system
